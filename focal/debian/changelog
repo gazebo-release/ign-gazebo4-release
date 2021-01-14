@@ -1,3 +1,9 @@
+ignition-gazebo4 (4.2.0-1~focal) focal; urgency=medium
+
+  * ignition-gazebo4 4.2.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Thu, 14 Jan 2021 06:29:37 -0700
+
 ignition-gazebo4 (4.1.0-1~focal) focal; urgency=medium
 
   * ignition-gazebo4 4.1.0-1 release
