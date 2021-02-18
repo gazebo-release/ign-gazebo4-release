@@ -1,3 +1,9 @@
+ignition-gazebo4 (4.5.0-1~buster) buster; urgency=medium
+
+  * ignition-gazebo4 4.5.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 17 Feb 2021 21:45:28 -0800
+
 ignition-gazebo4 (4.4.0-1~buster) buster; urgency=medium
 
   * ignition-gazebo4 4.4.0-1 release
