@@ -1,3 +1,9 @@
+ignition-gazebo4 (4.8.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo4 4.8.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Thu, 22 Apr 2021 13:56:21 -0800
+
 ignition-gazebo4 (4.7.0-1~bionic) bionic; urgency=medium
 
   * ignition-gazebo4 4.7.0-1 release
