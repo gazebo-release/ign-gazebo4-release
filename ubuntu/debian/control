@@ -23,7 +23,7 @@ Build-Depends: cmake,
                libignition-sensors4-dev,
                libignition-rendering4-dev (>= 4.8.0),
                libignition-transport9-log-dev,
-               libsdformat10-dev (>= 10.3.0)
+               libsdformat10-dev (>= 10.5.0)
 Vcs-Browser: https://github.com/ignition-release/ign-gazebo4-release
 Vcs-Git: https://github.com/ignition-release/ign-gazebo4-release
 Homepage: http://ignitionrobotics.org/
