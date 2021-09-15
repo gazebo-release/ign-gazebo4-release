@@ -1,3 +1,9 @@
+ignition-gazebo4 (4.10.0-1~buster) buster; urgency=medium
+
+  * ignition-gazebo4 4.10.0-1 release
+
+ -- Ian Chen <ichen@openrobotics.org>  Wed, 15 Sep 2021 15:46:54 -0700
+
 ignition-gazebo4 (4.9.1-1~buster) buster; urgency=medium
 
   * ignition-gazebo4 4.9.1-1 release
